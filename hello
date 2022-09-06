@@ -1,4 +1,8 @@
 Hello World Lets Study Git
 calling not answering
+<<<<<<< HEAD
 
 new comments added
+=======
+new comit creating for merge in feature'
+>>>>>>> feature
